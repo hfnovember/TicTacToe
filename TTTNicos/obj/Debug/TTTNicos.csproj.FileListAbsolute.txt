@@ -1,0 +1,15 @@
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\TTTNicos.csprojResolveAssemblyReference.cache
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\TTTNicos.Form1.resources
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\TTTNicos.Form2.resources
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\TTTNicos.Properties.Resources.resources
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\TTTNicos.csproj.GenerateResource.Cache
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\TTTNicos.Form3.resources
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\TTTNicos.Form4.resources
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\bin\Debug\Tic Tac Toe.exe.config
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\bin\Debug\Tic Tac Toe.exe
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\bin\Debug\Tic Tac Toe.pdb
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\Tic Tac Toe.exe
+F:\Users\Nicos\Libraries\Software Development\C#\TTTNicos\TTTNicos\obj\Debug\Tic Tac Toe.pdb
+F:\Users\Nicos\Libraries\Software Development\! Projects\TTTNicos\TTTNicos\bin\Debug\Tic Tac Toe.exe.config
+F:\Users\Nicos\Libraries\Software Development\! Projects\TTTNicos\TTTNicos\obj\Debug\Tic Tac Toe.exe
+F:\Users\Nicos\Libraries\Software Development\! Projects\TTTNicos\TTTNicos\obj\Debug\Tic Tac Toe.pdb
